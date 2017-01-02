@@ -20,6 +20,20 @@ urls:
       url: /contact/
       icon: fa-envelope
 
+
+social:
+    - icon: fa-facebook
+      link: '#'
+    - icon: fa-twitter
+      link: '#'
+    - icon: fa-github
+      link: '#'
+
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
 url: "http://amar3.github.io/mywebsite"
 baseurl: "/mywebsite"
 
