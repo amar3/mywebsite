@@ -12,7 +12,7 @@ permalink: /contact/
 <p><font size="6"><b>
     Email:
 </b></font></p>
-safifi4@gmail.com
+afifia@dal.ca
 
 <br>
 <br>
@@ -21,7 +21,7 @@ safifi4@gmail.com
 <p><font size="6"><b>
     Phone:
 </b></font></p>
-(613) 217-2044
+(613) 417-5557
 
 </div>
 

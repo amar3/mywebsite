@@ -25,12 +25,9 @@ div.black {
 </div>
 
 <div>
-My name is Sameh Afifi and I am an Electronics Engineer specializing in Embedded systems development
-I am also an entrepreneur, web developer for hire and programmer. My passion lies within startups and
-user experience and design. currently, I am a research assistant at Queens's Telecommunications Lab
-
-Iam currently learning to develop apps on both Android and iOS devices. Check out the apps I worked on
-in this projects section.
+My name is Amar Afifi and I am a Chemical Engineer specializing in Electro Chemestry. 
+My passion is teaching and mentoring young engineers. 
+Currently, I am a research assistant at Queens's Electro Chemestry Lab
 </div>
 
 <br>
