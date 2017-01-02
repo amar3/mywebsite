@@ -1,10 +1,10 @@
-title: Sameh Afifi
+title: Amar Afifi
 description: Hardware & Software Developer
-author: Sameh Afifi
+author: Amar Afifi
 logo: ieee2.svg
-github: https://github.com/safifi4
+github: https://github.com/amar3
 about: HW & SW Developer
-disqus_shortname: safifi4
+disqus_shortname: amar3
 google_analytics: UA-72862926-1
 urls:
     - text: Home
@@ -34,8 +34,8 @@ share:
   twitter_username: \#
   fb_appid: 000000000000
 
-url: "http://safifi4.github.io/bio-website"
-baseurl: "/bio-website"
+url: "http://amar3.github.io/mywebsite"
+baseurl: "/mywebsite"
 
 enableTags: true
 tagarray: []
